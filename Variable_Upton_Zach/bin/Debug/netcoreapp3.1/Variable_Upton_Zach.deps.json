@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Variable_Upton_Zach/1.0.0": {
+        "runtime": {
+          "Variable_Upton_Zach.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Variable_Upton_Zach/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
